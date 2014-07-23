@@ -1,0 +1,8 @@
+[user]
+	email = joseteneb@gmail.com
+	name = Jose Teneb
+[core]
+	editor = vim
+[color]
+	ui = auto
+
